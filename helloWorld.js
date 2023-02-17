@@ -20,3 +20,7 @@ console.log(age);
 
 var universityName = "SGBAU"; //Variable initializtion
 console.log(universityName);
+
+
+
+

@@ -1,0 +1,26 @@
+var firstName='Rohit';
+var middleName='Vilasrao';
+var lastName='Kanhe';
+console.log("Type of firstName is : " , typeof firstName);
+console.log("Type of middleName is : " , typeof middleName);
+console.log("Type of lastName is : " , typeof lastName);
+
+
+var age=25;
+var weight=55;
+var height=5.7;
+console.log("Type of age is : " , typeof age);
+console.log("Type of weight is : " , typeof weight);
+console.log("Type of height is : " , typeof height);
+
+
+var isAge=true;
+var isWeight=false;
+var isHeight=true;
+console.log("Type of isAge is : " , typeof isAge);
+console.log("Type of isWeight is : " , typeof isWeight);
+console.log("Type of isHeight is : " , typeof isHeight);
+
+var diff='A null value represents Empty its return nothing whereas undefined means when a variable is declare and not assigned any value.';
+console.log("Difference between Null and Undefined is :" ,  diff);
+

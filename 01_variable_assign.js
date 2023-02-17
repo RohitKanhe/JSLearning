@@ -22,5 +22,5 @@ console.log("*************** Step 1 *******************");
     var isMarried = "No Waiting";
     
 
-    console.log("My Name is:" , firstName, "My Surname is:" , LastName, "my Age is:" , age, 
+    console.log("My Name:" , firstName, "My Surname is:" , LastName, "my Age is:" , age, 
     "My PinCode is:" , pincode, "My address is:" , address, "Married:", isMarried);
