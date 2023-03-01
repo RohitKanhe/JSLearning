@@ -7,7 +7,6 @@ function langName(){
 
 
 
-    
 
 var firstName ="Rohit";
 var lastName ="Kanhe";

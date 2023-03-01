@@ -1,0 +1,16 @@
+var dreamComp= "Sprinklr";
+console.log("My Dream Company is :",dreamComp );
+
+var hobby1 ="Reading Books";
+var hobby2 ="Travelling";
+var hobby3 ="Watching Movies";
+console.log("My Hobbies are : ", hobby1, hobby2, "and", hobby3);
+
+
+
+// Function with no Arguments and no return value
+function stringTemplateAssign(){
+    console.log("Reading Books ","Travelling", " Watching Movies")
+    
+    }
+    stringTemplateAssign()// function call or invoke
