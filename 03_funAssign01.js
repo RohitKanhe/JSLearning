@@ -6,8 +6,6 @@ function langName(){
     langName()// function call or invoke
 
 
-
-
 var firstName ="Rohit";
 var lastName ="Kanhe";
 var cllg="P.R Pote college of Engineering and Management Amravati";

@@ -1,0 +1,15 @@
+
+// Function with no Arguments and no return value
+function stringHandsOn(){
+    var givenString="     Hey you are doing good, Keep it up       ";
+    console.log(givenString);
+    console.log("Length of givenstring is:", givenString.length);
+
+    //If you want to remove the start or end spaces
+    console.log(givenString.trimStart(), givenString.trimEnd());
+
+    }
+    stringHandsOn()// function call or invoke
+
+    
+
